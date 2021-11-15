@@ -1,0 +1,14 @@
+* {
+   margin: 0 auto;
+}
+
+body {
+   background-color: #DADADA;
+   margin-top: 100px;
+}
+
+
+.column {
+   max-width: 450px;
+}
+
